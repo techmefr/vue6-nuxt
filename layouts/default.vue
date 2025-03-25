@@ -7,3 +7,5 @@
         <AppFooter />
     </footer>
 </template>
+
+<style scoped></style>
