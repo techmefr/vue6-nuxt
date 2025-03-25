@@ -5,6 +5,9 @@
     <NuxtLink to="/blog">Page de blog</NuxtLink><br>
     <NuxtLink to="/contact">Page contact</NuxtLink>
 
+    <img src="/unity-book.png" alt="couverture du livre depuis public">
+
+    <img src="~/assets/book-innovation-work.jpg" alt="couverture de livre depuis assets">
 </template>
 
 <script></script>
