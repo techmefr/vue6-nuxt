@@ -8,4 +8,6 @@
     </footer>
 </template>
 
-<style scoped></style>
+<style scoped>
+@import "test-without-blog.css";
+</style>
