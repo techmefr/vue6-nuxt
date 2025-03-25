@@ -7,6 +7,7 @@
 </template>
 
 <script setup lang="ts">
+// définir un autre layout à utiliser (déjà créé précédemment dans layouts)
 definePageMeta({
     layout: 'custom'
 })

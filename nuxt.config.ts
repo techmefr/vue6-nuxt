@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   css: ['~/assets/test.css'],
   devServer: {
-    port: 49269,  // StackBlitz attend ce port
+    port: 51680,  // mettre le numéro de port qu'utilise StackBlitz
     host: '0.0.0.0'
   }
 })
