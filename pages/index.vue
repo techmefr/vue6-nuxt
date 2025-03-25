@@ -1,7 +1,8 @@
 <template>
     <h1>Page d'accueil</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus vero amet nulla reiciendis nobis quod repellat
-        fugit suscipit similique debitis minima et culpa, ullam totam optio eius labore, laborum unde.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi temporibus maiores voluptatum, cumque ducimus ab
+        dignissimos, iste debitis est nam dolores? Omnis vitae ipsa sequi recusandae dolores maxime ipsam impedit.</p>
+    <NuxtLink to="/blog">Page de blog</NuxtLink>
 </template>
 
 <script></script>

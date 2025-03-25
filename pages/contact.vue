@@ -1,6 +1,13 @@
 <template>
-    <h1>Page d'e contact</h1>
-    <p>Utilisez ceci pour envyer votre formulaire de contact</p>
-    <NuxtLink to="/">Accueil</NuxtLink>
+    <h1>Page de contact</h1>
+    <p>Utilisez ce formulaire pour nous envoyer votre message.</p>
+    <SimpleButton>
+        <NuxtLink to="/">Accueil</NuxtLink>
+    </SimpleButton>
 </template>
-<script></script>
+
+<script setup lang="ts">
+definePageMeta({
+    layout: 'custom'
+})
+</script>
