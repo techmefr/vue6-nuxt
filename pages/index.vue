@@ -14,7 +14,7 @@
         class="book-cover-img animate__animated animate__bounce">
 
     <img src="~/assets/book-innovation-work.jpg" alt="couverture de livre depuis assets" id="book-asset"
-        class="book-cover-img">
+        class="book-cover-img animate__animated animate__backInRight">
 </template>
 
 <script></script>
