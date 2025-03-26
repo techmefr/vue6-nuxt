@@ -1,3 +1,13 @@
+<script setup lang="ts">
+
+// comment utiliser localement le cdn pour animer depuis animate.css
+/*useHead({
+      link: [{rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/animate.css
+        }] 
+})
+*/
+</script>
+
 <template>
     <h1>Page d'accueil</h1>
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nisi temporibus maiores voluptatum, cumque ducimus ab
