@@ -10,7 +10,8 @@
 
 
 
-    <img src="/unity-book.png" alt="couverture du livre depuis public" id="book-public" class="book-cover-img">
+    <img src="/unity-book.png" alt="couverture du livre depuis public" id="book-public"
+        class="book-cover-img animate__animated animate__bounce">
 
     <img src="~/assets/book-innovation-work.jpg" alt="couverture de livre depuis assets" id="book-asset"
         class="book-cover-img">

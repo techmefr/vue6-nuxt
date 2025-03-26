@@ -7,7 +7,3 @@
         <AppFooter />
     </footer>
 </template>
-
-<style scoped>
-@import "test-without-blog.css";
-</style>
